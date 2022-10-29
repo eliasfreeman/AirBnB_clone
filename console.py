@@ -1,7 +1,9 @@
 #!/usr/bin/python3
+
 """This module the defines the entry point
 for the console command interpreter.
 """
+
 import cmd
 import re
 from models import storage
